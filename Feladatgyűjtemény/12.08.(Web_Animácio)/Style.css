@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&family=Zen+Dots&display=swap');
+
+#alap {
+    width: 100px;
+    height: 100px;
+    color: white;
+    font-family: 'Zen Dots', cursive;
+    line-height: 100px;
+    text-align: center;
+    background-color: aqua;
+    border: 5px dashed red;
+    /* transition: width 4s, height 6s, line-height 6s, background-color 5s, box-shadow 6s, border 8s;
+    transition-delay: 1s;
+    transition-duration: 4s;*/
+    animation: animacio_1;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+
+#alap_2 {
+    width: 100px;
+    height: 100px;
+    color: yellow;
+    font-family: 'Zen Dots', cursive;
+    line-height: 100px;
+    text-align: center;
+    background-color: aqua;
+    border: 5px dashed red;
+    animation: identifier;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+
+#alap_3 {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    line-height: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    color: whitesmoke;
+    background-color: rgba(10, 130, 75, 0.752);
+    animation: animation;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+}
+
+/*#alap:hover {
+    background-color: gold;
+    box-shadow: 5px 5px 5px black;
+    border: 2px dotted royalblue;
+    font-family: 'Noto Sans JP', sans-serif;
+    line-height: 150px;
+    width: 150px;
+    height: 150px;
+}*/
+
+@keyframes animacio_1 {
+    from {
+        color: goldenrod;
+    }
+
+    to {
+        color: var(color);
+    }
+}
+
+@keyframes identifier {
+    0% {
+        color: var(color);
+        font-style: italic;
+    }
+
+    25% {
+        color: rgba(120, 12, 160, 0.925);
+    }
+
+    75% {
+        color: rgba(115, 55, 10, 0.795);
+        transform: translate(10px, 30px);
+        transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+    }
+
+    100% {
+        color: chartreuse;
+        font-style: oblique;
+    }
+}
+
+@keyframes animation {
+    0% {
+        color: var(background-color);
+    }
+
+    25% {
+        background-color: skyblue;
+        font-style: italic;
+    }
+
+    50% {
+        background-color: var(identifier(color));
+        font-family: 'Zen Dots', cursive;
+        color: red;
+    }
+
+    75% {
+        background-color: var(animacio_1(from(color)));
+        color: gold;
+        font-family: fantasy;
+        -webkit-box-reflect: right;
+        -webkit-box-reflect: below 0px linear-gradient(rgba(10, 10, 10, 0.346) rgba(0, 0, 0, 0.240));
+        box-shadow: 5px black;
+    }
+
+    100% {
+        transform: translate(50px, 50px);
+        color: var(background-color);
+        font-family: monospace;
+        font-style: inherit;
+    }
+}
