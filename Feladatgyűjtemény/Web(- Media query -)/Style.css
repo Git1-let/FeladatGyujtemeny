@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+html {
+    font-family: Roboto, Oxygen, Ubuntu, Cantarell;
+}
+
+h1 {
+    font-weight: 500;
+}
+
+.container {
+    background-image: linear-gradient(aqua, red);
+    color: wheat;
+    padding: 1em;
+}
+
+nav {
+    list-style-type: none;
+    overflow: hidden;
+    background-color: turquoise;
+}
+
+nav li {
+    color: brown;
+    float: left;
+    padding: 10px;
+    width: 10%;
+}
+
+nav li:hover {
+    background-color: #f16a46;
+}
+
+#elso {
+    display: inline;
+}
+
+@media screen and (max-width: 600px) {
+    .container {
+        background-image: radial-gradient(orange, aqua);
+        color: whitesmoke;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .container {
+        background-image: linear-gradient(aqua, rgb(79, 21, 175));
+        color: black;
+    }
+
+    html {
+        font-weight: 100;
+    }
+
+    h1 {
+        font-weight: 100;
+    }
+
+    nav li {
+        float: none;
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 300px) {
+    .container {
+        background-image: linear-gradient(rgb(18, 182, 34), rgb(79, 21, 175));
+        color: black;
+    }
+}

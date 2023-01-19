@@ -1,0 +1,7 @@
+K:\JelszoGenerator\JelszoGenerator\bin\Debug\JelszoGenerator.exe.config
+K:\JelszoGenerator\JelszoGenerator\bin\Debug\JelszoGenerator.exe
+K:\JelszoGenerator\JelszoGenerator\bin\Debug\JelszoGenerator.pdb
+K:\JelszoGenerator\JelszoGenerator\obj\Debug\JelszoGenerator.csproj.AssemblyReference.cache
+K:\JelszoGenerator\JelszoGenerator\obj\Debug\JelszoGenerator.csproj.CoreCompileInputs.cache
+K:\JelszoGenerator\JelszoGenerator\obj\Debug\JelszoGenerator.exe
+K:\JelszoGenerator\JelszoGenerator\obj\Debug\JelszoGenerator.pdb

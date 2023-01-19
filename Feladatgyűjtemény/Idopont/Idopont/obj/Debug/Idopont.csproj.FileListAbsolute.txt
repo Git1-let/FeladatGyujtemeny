@@ -1,0 +1,5 @@
+K:\Idopont\Idopont\bin\Debug\Idopont.dll
+K:\Idopont\Idopont\bin\Debug\Idopont.pdb
+K:\Idopont\Idopont\obj\Debug\Idopont.csproj.CoreCompileInputs.cache
+K:\Idopont\Idopont\obj\Debug\Idopont.dll
+K:\Idopont\Idopont\obj\Debug\Idopont.pdb

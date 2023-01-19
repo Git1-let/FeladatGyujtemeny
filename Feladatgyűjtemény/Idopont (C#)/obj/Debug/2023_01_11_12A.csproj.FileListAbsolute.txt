@@ -1,0 +1,10 @@
+K:\2023_01_11_12A\2023_01_11_12A\bin\Debug\2023_01_11_12A.exe.config
+K:\2023_01_11_12A\2023_01_11_12A\bin\Debug\2023_01_11_12A.exe
+K:\2023_01_11_12A\2023_01_11_12A\bin\Debug\2023_01_11_12A.pdb
+K:\2023_01_11_12A\2023_01_11_12A\obj\Debug\2023_01_11_12A.csproj.AssemblyReference.cache
+K:\2023_01_11_12A\2023_01_11_12A\obj\Debug\2023_01_11_12A.csproj.CoreCompileInputs.cache
+K:\2023_01_11_12A\2023_01_11_12A\obj\Debug\2023_01_11_12A.exe
+K:\2023_01_11_12A\2023_01_11_12A\obj\Debug\2023_01_11_12A.pdb
+K:\2023_01_11_12A\2023_01_11_12A\bin\Debug\Idopont.dll
+K:\2023_01_11_12A\2023_01_11_12A\bin\Debug\Idopont.pdb
+K:\2023_01_11_12A\2023_01_11_12A\obj\Debug\2023_01_11_12A.csproj.CopyComplete

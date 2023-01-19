@@ -1,0 +1,7 @@
+K:\Tombok\Tombok\bin\Debug\Tombok.exe.config
+K:\Tombok\Tombok\bin\Debug\Tombok.exe
+K:\Tombok\Tombok\bin\Debug\Tombok.pdb
+K:\Tombok\Tombok\obj\Debug\Tombok.csproj.AssemblyReference.cache
+K:\Tombok\Tombok\obj\Debug\Tombok.csproj.CoreCompileInputs.cache
+K:\Tombok\Tombok\obj\Debug\Tombok.exe
+K:\Tombok\Tombok\obj\Debug\Tombok.pdb
